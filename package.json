@@ -18,7 +18,7 @@
   "dependencies": {
     "@octokit/rest": "^16.35.2",
     "@types/ioredis": "^4.14.2",
-    "@types/lru-cache": "^5.1.0",
+    "@types/lru-cache": "^5.1.1",
     "config-yml": "^0.10.2",
     "fs-extra": "^7.0.0",
     "node-fetch": "^2.6.1",
