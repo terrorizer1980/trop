@@ -16,13 +16,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@octokit/rest": "^16.35.2",
+    "@octokit/rest": "^17.0.0",
     "@types/ioredis": "^4.14.2",
     "@types/lru-cache": "^5.1.0",
     "config-yml": "^0.10.2",
     "fs-extra": "^7.0.0",
     "node-fetch": "^2.6.1",
-    "probot": "^9.6.6",
+    "probot": "^13.0.0",
     "prom-client": "^13.1.0",
     "queue": "^4.5.0",
     "simple-git": "1.105.0",
